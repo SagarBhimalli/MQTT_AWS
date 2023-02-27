@@ -1,0 +1,60 @@
+/voni_home/e8:31:cd:ce:10:a0/status/
+{
+  "st": "1",
+  "fwv": "1.0.0",
+  "uid": "65990WCAE4"
+}
+
+/voni_home/e8:31:cd:ce:10:a0/ack-status/
+{
+  "status": "1",
+  "rs": "0",
+  "swd": [
+    {
+      "value": "0",
+      "name": "SW01"
+    },
+    {
+      "value": "0",
+      "name": "SW02"
+    },
+    {
+      "value": "0",
+      "name": "SW03"
+    },
+    {
+      "value": "0",
+      "name": "SW04"
+    },
+    {
+      "value": "5",
+      "name": "DMR"
+    },
+    {
+      "value": "0",
+      "name": "USB2"
+    }
+  ],
+  "om": "0",
+  "omsw": [],
+  "dmr": "5"
+}
+
+
+/voni_home/e8:31:cd:ce:10:a0/sensor-status/
+{
+  "DT": 8,
+  "Sensor_State": 0,
+  "LDR_Sensor_Value": 0
+}
+
+/voni_home/e8:31:cd:ce:10:a0/modes/
+{
+  "modes": "1"
+}
+
+
+/voni_home/e8:31:cd:ce:10:a0/get-delay/
+{
+  "delay": "60"
+}
